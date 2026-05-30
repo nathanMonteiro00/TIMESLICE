@@ -26,7 +26,7 @@ Fila *criaFila(){
 }
 
 No *criaNo(void *valor){ // valor genérico
-    No *novoNo = (No *)calloc(1, sizeof(No));
+    No *novoNo = (No*)calloc(1, sizeof(No));
     if(!novoNo){
         printf("ERRO_AO_ALOCAR_MEMORIA");
         exit(1);
@@ -35,6 +35,8 @@ No *criaNo(void *valor){ // valor genérico
     novoNo -> info = valor;
     novoNo -> ant = novoNo;
     novoNo -> prox = novoNo;
+
+    return novoNo;
 }
 
 void enqueue(Fila *fila, void *v){
