@@ -15,13 +15,7 @@ gerenciamento dinâmico de memória e
 simulação de quantum de CPU
 
 ### Conceitos aplicados
-Estruturas de Dados
-Filas
-Lista circular
-Escalonamento Round Robin
-Ponteiros genéricos em C
-Modularização
-Callbacks
+Estruturas de Dados, filas, lista circular, escalonamento Round Robin, ponteiros genéricos em C, modularização e callbacks.
 Como funciona
 
 **Cada processo possui**:
