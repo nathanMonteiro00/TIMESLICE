@@ -16,7 +16,6 @@ simulação de quantum de CPU
 
 ### Conceitos aplicados
 Estruturas de Dados, filas, lista circular, escalonamento Round Robin, ponteiros genéricos em C, modularização e callbacks.
-Como funciona
 
 **Cada processo possui**:
 
