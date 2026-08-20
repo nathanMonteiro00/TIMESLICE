@@ -8,10 +8,10 @@ Este projeto foi desenvolvido como atividade da disciplina de Estrutura de Dados
 
 A implementação utiliza:
 
-fila circular duplamente encadeada
-nós genéricos com void *
-callbacks para processamento
-gerenciamento dinâmico de memória
+fila circular duplamente encadeada,
+nós genéricos com void *,
+callbacks para processamento,
+gerenciamento dinâmico de memória e
 simulação de quantum de CPU
 
 ### Conceitos aplicados
